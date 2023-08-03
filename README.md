@@ -1,10 +1,15 @@
 # Covid-19_Analysis_Dashboard_Tableau
-
+    Covid-19 analysis using Tableau dashboard to realize the actions to be taken in the crictical situation
 
 # Tools used:
   1) Avanced Excel
   2) Tableau
   3) Statistics
+
+# Steps:
+  1) Data subset collected from online.
+  2) Data cleaning & Finding missing values.
+  3) Data Visualization
 
 # Dashboard content:
   1) Total deaths by state 
@@ -17,3 +22,4 @@
   8) Statewise Testing details
 
 # Output Dashboard:
+![Covid Analysis Dashboard](https://github.com/Navina-Murugadas/Covid-19_Analysis_Dashboard_Tableau/assets/72821323/bbedc192-8944-4bef-b2c0-129e09b7f366)
