@@ -1,4 +1,4 @@
-# Covid-19_Analysis_Dashboard_Tableau
+# Covid-19 Analysis Dashboard
     Covid-19 analysis using Tableau dashboard to realize the actions to be taken in the crictical situation
 
 # Tools used:
